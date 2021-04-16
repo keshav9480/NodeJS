@@ -1,0 +1,26 @@
+{
+  "name": "intro-to-nodejs",
+  "version": "1.0.0",
+  "description": "beginners ",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keshav9480/NodeJS.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "keshav n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keshav9480/NodeJS/issues"
+  },
+  "homepage": "https://github.com/keshav9480/NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "superheroes": "^3.0.0"
+  }
+}
